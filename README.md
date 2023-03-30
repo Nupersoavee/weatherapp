@@ -1,3 +1,3 @@
-# weatherapp
+Weather App
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/weather-app-v1-nqow2v)
+# use it if you want ig
